@@ -4,4 +4,3 @@ const leapYears = function(num) {
 
 // Do not edit below this line
 module.exports = leapYears;
-// console.log(leapYears(1800));
